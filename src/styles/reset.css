@@ -8,3 +8,15 @@
     overflow-x: hidden;
 }
 
+.active {
+    cursor: pointer;
+    width: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 132%;
+    list-style: none;
+    color: #F97316;
+}
+

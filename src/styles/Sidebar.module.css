@@ -28,6 +28,7 @@
 }
 
 .menuItem {
+    cursor: pointer;
     padding-left: 35px;
     width: 100%;
     font-family: 'Inter';
@@ -39,14 +40,5 @@
     color: #71717A
 }
 
-.menuItem_active {
-    padding-left: 35px;
-    width: 100%;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 132%;
-    list-style: none;
-    color: #F97316;
-}
+
+
