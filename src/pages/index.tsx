@@ -8,6 +8,7 @@ import { sectionData } from "@/data/sectionData";
 //READ THIS: If there is any problem with size of elements please change a window of broweser to
 // 1366x768 px, it is the resolution of device I was working with but I hope the app is rendering
 //correctly on higher resolutions, I used % and vh, vw units.
+//aaabbbccddd
 
 export default function Home() {
   return (
